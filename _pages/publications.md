@@ -7,6 +7,10 @@ author_profile: true
 
 **2024**
 
+- **[ISSTA'24]** SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection <font color='red'>(CCF-A)</font>   
+Xin-Cheng Wen, Cuiyun Gao, _**Shuzheng Gao**_, Yang Xiao and Michael R. Lyu  
+The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, September 16-20, 2024, Vienna, Austria  
+
 - **[ICSE'24]** Learning in the Wild: Towards Leveraging Unlabeled Data for  Effectively Tuning Pre-trained Code Models <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, Xin Xia and Michael R. Lyu  
 The 46th International Conference on Software Engineering, April 14-20, 2024, Lisbon, Portugal  
