@@ -47,8 +47,7 @@ Courses I served as a teaching assistant.
 
 - CSCI 3100 Software Engineering:
   - 2024 Spring, Department of Computer Science and Engineering, The Chinese University of Hong Kong
- 
-  - 
+
 
 # Academic service
 
