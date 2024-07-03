@@ -5,15 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
+**2025**
+
+- **[ICSE'25]** Search-Based LLMs for Code Optimization <font color='red'>(CCF-A)</font>   
+_**Shuzheng Gao**_, Cuiyun Gao, Wenchao Gu and Michael R. Lyu    
+The 47th International Conference on Software Engineering, April 27- May 3, 2025, Ottawa, Ontario, Canada  
+
+
 **2024**
 
 - **[ISSTA'24]** SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection <font color='red'>(CCF-A)</font>   
 Xin-Cheng Wen, Cuiyun Gao, _**Shuzheng Gao**_, Yang Xiao and Michael R. Lyu  
 The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, September 16-20, 2024, Vienna, Austria  
+[[Arxiv]](https://arxiv.org/abs/2403.19096) \| [[Code]](https://github.com/Xin-Cheng-Wen/Comment4Vul)  
 
 - **[ICSE'24]** Learning in the Wild: Towards Leveraging Unlabeled Data for  Effectively Tuning Pre-trained Code Models <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, Xin Xia and Michael R. Lyu  
 The 46th International Conference on Software Engineering, April 14-20, 2024, Lisbon, Portugal  
+[[Arxiv]](https://arxiv.org/abs/2401.01060) \| [[Code]](https://github.com/shuzhenggao/HINT)  
 
 - **[ICSE'24]** Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors <font color='red'>(CCF-A)</font>   
 Yun Peng, _**Shuzheng Gao**_, Cuiyun Gao, Yintong Huo and Michael R. Lyu  
