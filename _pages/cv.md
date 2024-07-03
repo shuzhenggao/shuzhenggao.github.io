@@ -45,16 +45,21 @@ Courses I served as a teaching assistant.
 - ENGG 1100C Problem Solving By Programming:
   - 2023 Fall, Department of Computer Science and Engineering, The Chinese University of Hong Kong  
 
-<div style='display: none'>
+- CSCI 3100 Software Engineering:
+  - 2024 Spring, Department of Computer Science and Engineering, The Chinese University of Hong Kong
+ 
+  - 
+
 # Academic service
 
-- Journal reviewer (With Prof. Cuiyun Gao):
-  - TOSEM, TASLP, TSE
+- Reviewer
+  - Journal: TOSEM, KAIS
   
 
-- Conference reviewer (With Prof. Cuiyun Gao): 
-  - ASE 2023, Internetware 2023, ICSE-NIER 2023, ICSME 2022, SANER 2022, ASE-tool 2022, IJCAI 2022
-</div>
+- Sub-reviewer
+  - Journal: TOSEM, TSE, TIFS, ASEJ, 
+  - Conference: ISSTA 2024, FSE 2024, ASE 2023, Internetware 2023, ICSE-NIER 2023, ICSME 2022, SANER 2022, ASE-tool 2022, IJCAI 2022
+
 
 
 Honors and Awards
@@ -62,7 +67,6 @@ Honors and Awards
 
 - Postgraduate Studentship Award, CUHK, 2023.
 - Distinguished Paper Award, ASE-Inch, 2023.
-- Binxing Fang Scholarship, 2023.
 - Best Student Paper Award, ACAIT, 2022.
 - First Prize Postgraduate Scholarship, HITSZ 2022.
 - Outstanding Graduates of Harbin Institute of Technology, 2021.
