@@ -9,10 +9,14 @@ author_profile: true
 
 - **[ICSE'25]** Search-Based LLMs for Code Optimization <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Cuiyun Gao, Wenchao Gu and Michael R. Lyu    
-The 47th International Conference on Software Engineering, April 27- May 3, 2025, Ottawa, Ontario, Canada  
-
+The 47th International Conference on Software Engineering, April 27- May 3, 2025, Ottawa, Ontario, Canada   
+<font color='red'> Accept Rate 8.8% (46/523) </font> 
 
 **2024**
+
+- **[ASE'24]** A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How. <font color='red'>(CCF-A)</font>   
+Chaozheng Wang, _**Shuzheng Gao**_, Cuiyun Gao, Wenxuan Wang, Chun Yong Chong, Shan Gao and Michael R. Lyu  
+The 39th IEEE/ACM International Conference on Automated Software Engineering, October 27-November 1, 2024, Sacramento, California, United States
 
 - **[ISSTA'24]** SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection <font color='red'>(CCF-A)</font>   
 Xin-Cheng Wen, Cuiyun Gao, _**Shuzheng Gao**_, Yang Xiao and Michael R. Lyu  
@@ -27,7 +31,7 @@ The 46th International Conference on Software Engineering, April 14-20, 2024, Li
 - **[ICSE'24]** Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors <font color='red'>(CCF-A)</font>   
 Yun Peng, _**Shuzheng Gao**_, Cuiyun Gao, Yintong Huo and Michael R. Lyu  
 The 46th International Conference on Software Engineering, April 14-20, 2024, Lisbon, Portugal  
-[[Arxiv]](https://arxiv.org/abs/2306.01394) \| [[Code]](https://github.com/JohnnyPeng18/TypeFix)  
+[[Arxiv]](https://arxiv.org/abs/2306.01394) \| [[Code]](https://github.com/JohnnyPeng18/TypeFix) \| <font color='red'> Accept Rate 8.8% (46/523) </font> 
 
 
 **2023**
