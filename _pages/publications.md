@@ -5,18 +5,38 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+**Preprint**
+
+
 **2025**
 
 - **[ICSE'25]** Search-Based LLMs for Code Optimization <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Cuiyun Gao, Wenchao Gu and Michael R. Lyu    
 The 47th International Conference on Software Engineering, April 27- May 3, 2025, Ottawa, Ontario, Canada   
-[[Arxiv]](https://shuzhenggao.github.io/publications/) \| <span style="color:red">Accept Rate 8.8% (46/523)</span>
+[[Arxiv]](https://arxiv.org/abs/2408.12159) \| [[code]](https://github.com/shuzhenggao/sbllm) \| <span style="color:red"> ACM SIGSOFT Distinguished Paper Award </span>  
+
+- **[FSE'25]** Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning <font color='red'>(CCF-A)</font>   
+Chaozheng Wang, Jia Feng, _**Shuzheng Gao**_, Cuiyun Gao, Zongjie Li, Ting Peng, Hailiang Huang, Yuetang Deng, and Michael R. Lyu   
+The ACM International Conference on the Foundations of Software Engineering, Mon 23 - Fri 27 June 2025 Trondheim, Norway 
+
+
+- **[FSE'25 Industry]** RAG or Fine-tuning? A Comparative Study on LCMs-based Code Completion in Industry  
+Chaozheng Wang, Zezhou Yang, _**Shuzheng Gao**_, Cuiyun Gao, Ting Peng, Hailiang Huang, Yuetang Deng, and Michael R. Lyu   
+The ACM International Conference on the Foundations of Software Engineering, Mon 23 - Fri 27 June 2025 Trondheim, Norway  
+
+
+- **[Under Review]** The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation    
+_**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao, Xiaoqian Jiao, Chun Yong Chong, Shan Gao and Michael R. Lyu   
+[[Arxiv]](https://arxiv.org/abs/2501.01329)
+
 
 **2024**
 
 - **[ASE'24]** A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How. <font color='red'>(CCF-A)</font>   
 Chaozheng Wang, _**Shuzheng Gao**_, Cuiyun Gao, Wenxuan Wang, Chun Yong Chong, Shan Gao and Michael R. Lyu  
 The 39th IEEE/ACM International Conference on Automated Software Engineering, October 27-November 1, 2024, Sacramento, California, United States
+[[Arxiv]](https://arxiv.org/abs/2409.13178)  
 
 - **[ISSTA'24]** SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection <font color='red'>(CCF-A)</font>   
 Xin-Cheng Wen, Cuiyun Gao, _**Shuzheng Gao**_, Yang Xiao and Michael R. Lyu  
@@ -41,7 +61,7 @@ _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang, Hongyu Zhang and Mi
 The 38th International Conference on Automated Software Engineering, September 11-15, 2023, Kirchberg, Luxembourg   
 [[Arxiv]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/shuzhenggao/ICL) 
 
-- **[ASE-Inch'23]** REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes  
+- **[ASE'23 Industry Challenge]** REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes  
 Chaozheng Wang, Zongjie Li, Yun Peng, _**Shuzheng Gao**_, Sirong Chen, Shuai Wang, Cuiyun Gao and Michael R. Lyu  
 The 38th International Conference on Automated Software Engineering (Industry Challenge Track), September 11-15, 2023, Kirchberg, Luxembourg   
 [[Arxiv]](https://arxiv.org/abs/2309.08115) \| [[Code]](https://github.com/ASE-REEF/REEF-script) \| <span style="color:red"> Distinguished Paper Award </span>
@@ -81,10 +101,5 @@ Shiyi Qi, Yaoxian Li, Cuiyun Gao, Xiaohong Su, _**Shuzheng Gao**_, Zibin Zheng a
 IEEE Transactions on Reliability  
 
 
-
-**Preprint**
-
-- BadCS: A Backdoor Attack Framework for Code search   
-Shiyi Qi, Yuanhang Yang, _**Shuzheng Gao**_, Cuiyun Gao and Zenglin Xu
 
 _(* denotes equal contribution.)_
