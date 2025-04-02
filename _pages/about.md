@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student at the Department of Computer Science and Engineering, [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). I got my Master's degree from Harbin Institute of Technology Shenzhen in June 2023, under the supervision of Prof. [Cuiyun Gao](https://cuiyungao.github.io/). Before that, I received my Bachelor's degree from Harbin Institute of Technology Weihai in June 2021. My  research interests mainly focus on software engineering and code intelligence.
+I'm a second-year Ph.D. student at the Department of Computer Science and Engineering, [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by Prof. [Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). I got my Master's degree from Harbin Institute of Technology Shenzhen in June 2023, under the supervision of Prof. [Cuiyun Gao](https://cuiyungao.github.io/). Before that, I received my Bachelor's degree from Harbin Institute of Technology Weihai in June 2021. My research interests mainly focus on code intelligence and large language models.
 
 
 <div style='display: none'>
@@ -25,8 +25,10 @@ My research mainly focuses on software engineering and code intelligence. Code I
 
 
 #  News
-- *2024.08* 🎉🎉 One Paper "A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How" is directly accepted by ASE 2024!
-- *2024.07* 🎉🎉 One Paper "Search-Based LLMs for Code Optimizationn" is directly accepted by ICSE 2025 without revision, with an acceptance rate of 8.8% (46/523)!
+- *2025.04* 🎉🎉 Our Paper "Search-Based LLMs for Code Optimization" win <font color="#FF0000 ">ACM SIGSOFT Distinguished Paper Award!</font>
+- *2025.04* 🎉🎉 Two Paper "Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning" and "RAG or Fine-tuning? A Comparative Study on LCMs-based Code Completion in Industry"  are accepted by FSE 2025 and FSE 2025 industry track!
+- *2024.08* 🎉🎉 One Paper "A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How" is accepted by ASE 2024!
+- *2024.07* 🎉🎉 One Paper "Search-Based LLMs for Code Optimization" is directly accepted by ICSE 2025 without revision, with an acceptance rate of 8.8% (46/523)!
 - *2024.03* 🎉🎉 One Paper "SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection" is accepted by ISSTA 2024!
 - *2023.12* 🎉🎉 One Paper "Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models" is accepted by ICSE 2024!
 - *2023.07* 🎉🎉 One Paper "What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?" is accepted by ASE 2023!
@@ -53,16 +55,15 @@ Yun Peng, _**Shuzheng Gao**_, Cuiyun Gao, Yintong Huo and Michael R. Lyu \| [[Ar
 - **[ICSE'23]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension   <font color="#FF0000 ">(CCF-A)</font>  
 _**Shuzheng Gao**_, Cuiyun Gao, Chaozheng Wang, Jun Sun, David Lo and Yue Yu \| [[Arxiv]](https://arxiv.org/abs/2207.11104) \| [[Code]](https://github.com/ReliableCoding/CREAM) 
 
-
 - **[ICSE'23]** Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models   <font color="#FF0000 ">(CCF-A)</font>  
 _**Shuzheng Gao**_, Hongyu Zhang, Cuiyun Gao and Chaozheng Wang \| [[Arxiv]](https://arxiv.org/abs/2209.07027) \| [[Code]](https://github.com/ReliableCoding/REPEAT) 
-
 
 - **[TOSEM'23]** Code Structure Guided Transformer for Source Code Summarization   <font color="#FF0000 ">(CCF-A)</font>  
 _**Shuzheng Gao**_, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia and Michael R. Lyu \| [[Arxiv]](https://arxiv.org/abs/2104.09340) \| [[Code]](https://github.com/gszsectan/SG-Trans)   
 
 # Selected Awards
 
+- ACM SIGSOFT Distinguished Paper Award, ICSE, 2025
 - Postgraduate Studentship Award, CUHK, 2023
 - Distinguished Paper Award, ASE-Inch, 2023
 - Best Student Paper Award, ACAIT, 2022
