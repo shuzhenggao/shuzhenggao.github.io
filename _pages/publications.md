@@ -23,7 +23,7 @@ The ACM International Conference on the Foundations of Software Engineering, Mon
 
 - **[FSE'25 Industry]** RAG or Fine-tuning? A Comparative Study on LCMs-based Code Completion in Industry  
 Chaozheng Wang, Zezhou Yang, _**Shuzheng Gao**_, Cuiyun Gao, Ting Peng, Hailiang Huang, Yuetang Deng, and Michael R. Lyu   
-The ACM International Conference on the Foundations of Software Engineering, Mon 23 - Fri 27 June 2025 Trondheim, Norway  
+The ACM International Conference on the Foundations of Software Engineering  (Industry Track), Mon 23 - Fri 27 June 2025 Trondheim, Norway  
 
 
 - **[Under Review]** The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation    
