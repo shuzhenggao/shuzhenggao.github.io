@@ -42,32 +42,33 @@ Courses I served as a teaching assistant.
 - COMP 2005 Digital Logic Design:
   - 2021 Fall, School of Computer Science and Technology, Harbin institute of technology, Shenzhen
 
-- ENGG 1100C Problem Solving By Programming:
+- ENGG 1100 Problem Solving By Programming:
   - 2023 Fall, Department of Computer Science and Engineering, The Chinese University of Hong Kong  
+  - 2024 Fall, Department of Computer Science and Engineering, The Chinese University of Hong Kong  
 
 - CSCI 3100 Software Engineering:
   - 2024 Spring, Department of Computer Science and Engineering, The Chinese University of Hong Kong
+  - 2025 Spring, Department of Computer Science and Engineering, The Chinese University of Hong Kong
 
 
 # Academic service
 
-- Reviewer
-  - Journal: TOSEM, KAIS
-  
+- Program Committee
+  - FORGE 2025, Internetware 2025
+
+- Journal Reviewer
+  - TSE, TOSEM, KAIS
 
 - Sub-reviewer
   - Journal: TOSEM, TSE, TIFS, ASEJ, 
-  - Conference: ISSTA 2024, FSE 2024, ASE 2023, Internetware 2023, ICSE-NIER 2023, ICSME 2022, SANER 2022, ASE-tool 2022, IJCAI 2022
-
+  - Conference: ACL 2026, ISSRE 2025, FSE 2025, ISSTA 2024, FSE 2024, ASE 2023, Internetware 2023, ICSE-NIER 2023, ICSME 2022, SANER 2022, ASE-tool 2022, IJCAI 2022
 
 
 Honors and Awards
 ======
 
-- Postgraduate Studentship Award, CUHK, 2023.
+- ACM SIGSOFT Distinguished Paper Award, ICSE, 2025.
 - Distinguished Paper Award, ASE-Inch, 2023.
 - Best Student Paper Award, ACAIT, 2022.
-- First Prize Postgraduate Scholarship, HITSZ 2022.
 - Outstanding Graduates of Harbin Institute of Technology, 2021.
-- Meritorious Winner, Mathematics Contest in Modeling, 2020.
 - National Scholarship, Ministry of Education 2019.
