@@ -18,13 +18,13 @@ _**Shuzheng Gao**_\*, Eric John Li\*, Man Ho Lam, Jingyu Xiao, Yuxuan Wan, Chaoz
 - **[ICSE'26]** SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao and Michael R. Lyu    
 The 48th International Conference on Software Engineering, April 12-18, 2026, Rio De Janeiro, Brazil  
-[[Paper]](https://arxiv.org/abs/2510.17130) \| [[Code]](https://github.com/shuzhenggao/sbllm)
+[[Paper]](https://arxiv.org/abs/2510.17130) \| [[Code]](https://github.com/shuzhenggao/ICSE26SEER)
 
 
 - **[LLM4Code'26]** ContextPilot: Code Context Engineering with Memory-Augmented Exploration Agents    
 _**Shuzheng Gao**_, Chaozheng Wang, Shuqing Li, Yun Peng and Michael R. Lyu    
 The Third International Workshop on Large Language Models for Code, April 12, 2026, Rio De Janeiro, Brazil   
-[[Paper]](https://arxiv.org/abs/2408.12159)
+[[Paper]](../files/contextpilot.pdf)
 
 
 **2025**
