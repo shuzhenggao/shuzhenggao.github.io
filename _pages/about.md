@@ -10,7 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-Hello! I am a **final-year Ph.D. student** in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). I expect to graduate in **July 2027**. Before joining CUHK, I received my Master's degree from Harbin Institute of Technology, Shenzhen, under the supervision of [Prof. Cuiyun Gao](https://cuiyungao.github.io/), and my Bachelor's degree from Harbin Institute of Technology, Weihai.
+Hello! I am a **final-year Ph.D. student** in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home).
 
 <div class="job-market-banner">
 <div class="job-market-title">📢 On the 2027 Job Market</div>
@@ -23,7 +23,7 @@ The following figure summarizes my main research directions and representative f
 
 <img src="/images/research-overview.png" alt="Overview of my research on Code Models, Coding Agents, and Recursive Self-improvement" class="research-overview">
 
-I am currently a Research Intern at **ByteDance Douyin AI4SE**, working on long-horizon coding agents, agentic reinforcement learning, and automated post-training. If you are interested in my research, collaboration, or potential opportunities, please feel free to contact me at [szgao23@cse.cuhk.edu.hk](mailto:szgao23@cse.cuhk.edu.hk).
+If you are interested in my research, collaboration, or potential opportunities, please feel free to contact me at [szgao23@cse.cuhk.edu.hk](mailto:szgao23@cse.cuhk.edu.hk).
 
 # 🔥 News
 
@@ -46,8 +46,6 @@ I am currently a Research Intern at **ByteDance Douyin AI4SE**, working on long-
 - <span class="conference-tag">LLM4Code 2026</span> [**ContextPilot: Code Context Engineering with Memory-Augmented Exploration Agents**](../files/contextpilot.pdf), **Shuzheng Gao**, Chaozheng Wang, Shuqing Li, Yun Peng, and Michael R. Lyu.
 
 - <span class="conference-tag">ICSE 2025</span> [**Search-Based LLMs for Code Optimization**](https://arxiv.org/abs/2408.12159), **Shuzheng Gao**, Cuiyun Gao, Wenchao Gu, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/sbllm) <span class="outstanding-tag">ACM SIGSOFT Distinguished Paper Award</span>
-
-- <span class="preprint-tag">TOSEM Revision</span> [**TREAT: A Code LLMs Trustworthiness/Reliability Evaluation and Testing Framework**](https://arxiv.org/abs/2510.17163), **Shuzheng Gao**<sup>*</sup>, Eric John Li<sup>*</sup>, Man Ho Lam, Jingyu Xiao, Yuxuan Wan, Chaozheng Wang, Ng Man Tik, and Michael R. Lyu. [[Homepage]](https://code-treat.vercel.app/) [[Data]](https://huggingface.co/Code-TREAT/datasets)
 
 - <span class="conference-tag">ICSE 2024</span> [**Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models**](https://arxiv.org/abs/2401.01060), **Shuzheng Gao**, Wenxin Mao, Cuiyun Gao, Li Li, Xing Hu, Xin Xia, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/HINT)
 
