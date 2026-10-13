@@ -15,7 +15,7 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 <img src="/images/research-overview.png" alt="Overview of my research on Code Models, Coding Agents, and Recursive Self-improvement" class="research-overview">
 
 <div class="job-market-banner">
-📢 **I am currently on the 2027 job market and actively seeking academic or industry opportunities. Feel free to reach out at my email (szgao23@cse.cuhk.edu.hk) or wechat (id: wx_szgao1998) if you are interested in any aspect of me.** 
+📢 I am currently on the 2027 job market and actively seeking academic or industry opportunities. Feel free to reach out at my email (szgao23@cse.cuhk.edu.hk) or WeChat (ID: wx_szgao1998) if you are interested in any aspect of me.
 </div>
 
 # 🔥 News
