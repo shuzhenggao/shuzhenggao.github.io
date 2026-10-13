@@ -19,10 +19,6 @@ author_profile: true
   - **Mentor**: Dr. Shilin He.
   - **Research Focus**: Coding-agent SFT and RL, long-horizon agents with compaction and subagents, agentic RL training and credit assignment, and automated post-training.
 
-- *Jul 2026 - Present*, **Training Autonomous Post-Training Agents with RSI-Gym**.
-  - Automatically building model-training environments from top-venue papers.
-  - Training models to train small LLMs on PostTrainBench.
-
 - *Mar 2021 - Aug 2021*, **Research Intern**, Huawei Noah's Ark Lab, Shenzhen.
   - **Mentor**: Dr. Pengyun Wang.
   - **Research Focus**: Long-tailed image classification.
@@ -42,7 +38,7 @@ author_profile: true
 ## Honors and Awards
 
 - *2025*: ACM SIGSOFT Distinguished Paper Award, ICSE.
-- *2025*: Internetware Distinguished Reviewer Award.
+- *2025*: Distinguished Reviewer Award, Internetware.
 - *2023*: Distinguished Paper Award, ASE Industry Challenge.
 - *2023*: Binxing Fang Scholarship.
 - *2022*: Best Student Paper Award, ACAIT.
