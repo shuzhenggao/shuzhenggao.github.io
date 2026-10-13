@@ -10,10 +10,12 @@ author_profile: true
 ## Preprints
 
 -  Training LLM Agents to Automate LLM Post-Training with RSI-Dojo    
-_**Shuzheng Gao**_, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R Lyu 
+_**Shuzheng Gao**_, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R Lyu<br>
+[[Project]](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link)
 
 -  AutoTrainess: Teaching Language Models to Train Language Models Autonomously  
-Zhaojian Yu\*, Penghao Yin\*, _**Shuzheng Gao\***_, Shilin He, Kai Cai, Xiao-ping Zhang
+Zhaojian Yu\*, Penghao Yin\*, _**Shuzheng Gao\***_, Shilin He, Kai Cai, Xiao-ping Zhang<br>
+[[Paper]](https://arxiv.org/abs/2606.31551) \| [[Code]](https://github.com/simple-agent-lab/AutoTrainess)
 
 - The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation    
 _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao, Xiaoqian Jiao, Chun Yong Chong, Shan Gao and Michael R. Lyu   
@@ -23,15 +25,12 @@ _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao, Xiaoqian Jiao, Chun Yong Chong, 
 _**Shuzheng Gao**_\*, Eric John Li\*, Man Ho Lam, Jingyu Xiao, Yuxuan Wan, Chaozheng Wang, Ng Man Tik, Michael R. Lyu.  
 [[Paper]](https://arxiv.org/abs/2510.17163) \| [[Homepage]](https://code-treat.vercel.app/) \| [[Data]](https://huggingface.co/Code-TREAT/datasets)
 
-- The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation    
-_**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao, Xiaoqian Jiao, Chun Yong Chong, Shan Gao and Michael R. Lyu   
-[[Paper]](https://arxiv.org/abs/2501.01329)
-
 ## 2026
 
 - **[EMNLP'26]** SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents <font color='red'>(CCF-B)</font>
 _**Shuzheng Gao**_, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He and Michael R. Lyu
 <font color='red'> Oral Presentation </font>
+[[Paper]](https://arxiv.org/abs/2606.28434)
 
 - **[ICSE'26]** SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao and Michael R. Lyu    
@@ -45,26 +44,32 @@ The Third International Workshop on Large Language Models for Code, April 12, 20
 
 - **[NeurIPS'26]** Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue <font color='red'>(CCF-A)</font>
 Azure Zhang, Ning Gao, Yuqin Dai, Ruiyuan Wu, Jinpeng Wang, Rena Wei Gao, Bingdong Tan, _**Shuzheng Gao**_, Zongjie Li and Chaozheng Wang
+[[Paper]](https://neurips.cc/virtual/2026/poster/153222)
 
 - **[EMNLP'26]** Dockerless: Environment-Free Program Verifier for Coding Agents <font color='red'>(CCF-B)</font>
 Wenhao Zeng, Yuling Shi, Xiaodong Gu, Chao Hu, Chaofan Wang, Yuhao Cui, Hongting Zhou, Mengnan Qi, Jianqiao Wangni, Zhaojian Yu, _**Shuzheng Gao**_, Kai Cai and Shilin He
-Oral Presentation
 <font color='red'> Oral Presentation </font>
+[[Paper]](https://arxiv.org/abs/2606.28436)
 
 - **[ASE'26]** Multi-level Code Optimization via Mixture of Prompts <font color='red'>(CCF-A)</font>
 Yun Peng, Jun Wan, Jiakun Liu, _**Shuzheng Gao**_, David Lo and Xiaoxue Ren
+[[Paper]](https://arxiv.org/abs/2607.23665) \| [[Artifact]](https://zenodo.org/records/19335907)
 
 - **[ASE'26]** BDiff: Block-aware and Accurate Text-based Code Differencing <font color='red'>(CCF-A)</font>
 Yao Lu, Wanwei Liu, Tanghaoran Zhang, Kang Yang, Yang Zhang, Wenyu Xu, Longfei Sun, Xinjun Mao, _**Shuzheng Gao**_ and Michael R. Lyu
+[[Paper]](https://arxiv.org/abs/2510.21094) \| [[Code]](https://github.com/bdiff/bdiff)
 
 - **[ACL'26 Findings]** Adapt to Thrive! Adaptive Power-Mean Policy Optimization for Improved LLM Reasoning
 Yiming Huang, Zhenbo Shi, _**Shuzheng Gao**_, Cuiyun Gao, Peiyi Han and Chuanyi Liu
+[[Paper]](https://arxiv.org/abs/2605.04066)
 
 - **[FSE'26]** Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing <font color='red'>(CCF-A)</font>
 Chaozheng Wang, Zezhou Yang, _**Shuzheng Gao**_, Cuiyun Gao, Zongjie Li, Yichen Li, Ting Peng, Hailiang Huang, Yuetang Deng and Michael R. Lyu
+[[Paper]](https://arxiv.org/abs/2604.19201) \| [[Code]](https://github.com/adf1178/cascaced_code_editing)
 
 - **[FSE'26 Industry]** JSProtect: A Scalable Obfuscation Framework for Mini-Games in WeChat
 Zhihao Li, Chaozheng Wang, Zongjie Li, Xinyong Peng, Zelin Su, Qun Xia, Haochuan Lu, Ting Xiong, Man Ho Lam, _**Shuzheng Gao**_, Yuchong Xie, Cuiyun Gao, Shuai Wang, Yuetang Deng and Huafeng Ma
+[[Paper]](https://arxiv.org/abs/2509.24498)
 
 
 
@@ -108,7 +113,7 @@ The 46th International Conference on Software Engineering, April 14-20, 2024, Li
 - **[ASE'24]** A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How. <font color='red'>(CCF-A)</font>   
 Chaozheng Wang, _**Shuzheng Gao**_, Cuiyun Gao, Wenxuan Wang, Chun Yong Chong, Shan Gao and Michael R. Lyu  
 The 39th IEEE/ACM International Conference on Automated Software Engineering, October 27-November 1, 2024, Sacramento, California, United States  
-[[Paper]](https://arxiv.org/abs/2409.13178)  
+[[Paper]](https://arxiv.org/abs/2409.13178) \| [[Code]](https://github.com/adf1178/api_suggestion_evaluation)
 
 - **[ISSTA'24]** SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection <font color='red'>(CCF-A)</font>   
 Xin-Cheng Wen, Cuiyun Gao, _**Shuzheng Gao**_, Yang Xiao and Michael R. Lyu  
@@ -120,7 +125,7 @@ The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, S
 - **[ASE'23]** What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs? <font color='red'>(CCF-A)</font>  
 _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang, Hongyu Zhang and Michael R. Lyu  
 The 38th International Conference on Automated Software Engineering, September 11-15, 2023, Kirchberg, Luxembourg   
-[[Paper]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/shuzhenggao/ICL) 
+[[Paper]](https://arxiv.org/abs/2304.07575) \| [[Code]](https://github.com/shuzhenggao/ICL4code)
 
 - **[ICSE'23]** Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension <font color='red'>(CCF-A)</font>  
 _**Shuzheng Gao**_, Cuiyun Gao, Chaozheng Wang, Jun Sun, David Lo and Yue Yu  
@@ -148,7 +153,7 @@ ACM Transactions on Software Engineering and Methodology
 - **[ACAIT'22]** Improving Long-Tailed Classification Via Decoupling and Regularization     
  _**Shuzheng Gao**_\*, Chaozheng Wang\*, Cuiyun Gao, Wenjian Luo, Peiyi Han and Qing Liao  
 The 6th Asian Conference on Artificial Intelligence Technology, December 9-11, 2022, Changzhou, China  
-\| 🏆 <span style="color:red"> Best student paper award  </span>
+🏆 <span style="color:red"> Best student paper award  </span>
 
 - **[TNNLS'22]** Label-Aware Distribution Calibration for Long-tailed Classification <font color='red'>(CCF-B)</font>  
 Chaozheng Wang\*, _**Shuzheng Gao**_\*, Cuiyun Gao, Pengyun Wang, Wenjie Pei, Lujia Pan and Zenglin Xu  
@@ -158,6 +163,7 @@ IEEE Transactions on Neural Networks and Learning Systems
 - **[TRel'22]** Dynamically Relative Position Encoding-Based Transformer for Automatic Code Edit <font color='red'>(JCR Q1)</font>  
 Shiyi Qi, Yaoxian Li, Cuiyun Gao, Xiaohong Su, _**Shuzheng Gao**_, Zibin Zheng and Chuanyi Liu  
 IEEE Transactions on Reliability  
+[[Paper]](https://arxiv.org/abs/2205.13522)
 
 
 

@@ -39,7 +39,7 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 
 - <span class="preprint-tag">To appear on arXiv</span> [**RSI-Dojo: Training LLM Agents to Automate LLM Post-Training**](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link), **Shuzheng Gao**, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R. Lyu.
 
-- <span class="conference-tag">EMNLP 2026</span> **SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents**, **Shuzheng Gao**, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He, and Michael R. Lyu. <span class="oral-tag">Oral</span>
+- <span class="conference-tag">EMNLP 2026</span> [**SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents**](https://arxiv.org/abs/2606.28434), **Shuzheng Gao**, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He, and Michael R. Lyu. <span class="oral-tag">Oral</span>
 
 - <span class="conference-tag">ICSE 2026</span> [**SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning**](https://arxiv.org/abs/2510.17130), **Shuzheng Gao**, Chaozheng Wang, Cuiyun Gao, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/ICSE26SEER)
 
@@ -51,11 +51,11 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 
 - <span class="conference-tag">ASE 2023</span> [**What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?**](https://arxiv.org/abs/2304.07575), **Shuzheng Gao**, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang, Hongyu Zhang, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/ICL4code)
 
-- <span class="conference-tag">ICSE 2023</span> [**Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models**](https://arxiv.org/abs/2207.11104), **Shuzheng Gao**, Hongyu Zhang, Cuiyun Gao and Chaozheng Wang. [[Code]](https://github.com/ReliableCoding/REPEAT)
+- <span class="conference-tag">ICSE 2023</span> [**Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models**](https://arxiv.org/abs/2209.07027), **Shuzheng Gao**, Hongyu Zhang, Cuiyun Gao and Chaozheng Wang. [[Code]](https://github.com/ReliableCoding/REPEAT)
 
 - <span class="conference-tag">ICSE 2023</span> [**Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension**](https://arxiv.org/abs/2207.11104), **Shuzheng Gao**, Cuiyun Gao, Chaozheng Wang, Jun Sun, David Lo, and Yue Yu. [[Code]](https://github.com/ReliableCoding/CREAM)
 
-- <span class="conference-tag">TOSEM 2022</span> [**Code Structure Guided Transformer for Source Code Summarization**](https://arxiv.org/abs/2104.09340), **Shuzheng Gao**, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia, and Michael R. Lyu. [[Code]](https://github.com/gszsectan/SG-Trans)
+- <span class="conference-tag">TOSEM 2022</span> [**Code Structure Guided Transformer for Source Code Summarization**](https://arxiv.org/abs/2104.09340), **Shuzheng Gao**, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/SG-Trans)
 
 <sup>*</sup> indicates equal contribution. See [Publications](/publications/) for the complete list.
 
