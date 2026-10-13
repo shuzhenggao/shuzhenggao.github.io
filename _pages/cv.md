@@ -11,7 +11,7 @@ redirect_from:
 
 Research Summary
 ======
-My research primarily focuses on **Code LLMs and Coding Agents**, including their training, evaluation, and inference-time optimization. More recently, I have been working on **recursive self-improvement**, particularly on enabling models to train themselves and optimize their own agent harnesses. I have published 30+ papers in these areas, including an ICSE 2025 paper that received the ACM SIGSOFT Distinguished Paper Award and an EMNLP 2026 paper nominated for a Best Paper Award.
+My research primarily focuses on **Code LLMs and Coding Agents**, including their training, evaluation, and inference-time optimization. More recently, I have been working on **recursive self-improvement**, particularly on enabling models to train themselves and optimize their own agent harnesses. I have published 30+ papers in these areas, including an ICSE 2025 paper that received the ACM SIGSOFT Distinguished Paper Award.
 
 Education
 ======
@@ -43,7 +43,7 @@ Selected Publications
 ======
 * **[EMNLP 2026]** SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents
   * Shuzheng Gao, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He and Michael R. Lyu
-  * Oral Presentation; Best Paper Award Nomination
+  * Oral Presentation
 
 * **[ICSE 2026]** SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning
   * Shuzheng Gao, Chaozheng Wang, Cuiyun Gao and Michael R. Lyu
@@ -92,8 +92,7 @@ Academic Service
 
 Honors and Awards
 ======
-* Best Paper Award Nomination, EMNLP, 2026
-* ACM SIGSOFT Distinguished Paper Award, ICSE, 2025
+* * ACM SIGSOFT Distinguished Paper Award, ICSE, 2025
 * Internetware Distinguished Reviewer Award, 2025
 * Distinguished Paper Award, ASE Industry Challenge, 2023
 * Binxing Fang Scholarship, 2023

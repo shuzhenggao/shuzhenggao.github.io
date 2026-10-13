@@ -1,26 +1,27 @@
 ---
-layout: archive
-title: "Publications"
+layout: default
+title: "All Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+# All Publications
 
-**Preprint**
+## Preprints
 
 - TREAT: A Code LLMs Trustworthiness/Reliability Evaluation and Testing Framework  
 _**Shuzheng Gao**_\*, Eric John Li\*, Man Ho Lam, Jingyu Xiao, Yuxuan Wan, Chaozheng Wang, Ng Man Tik, Michael R. Lyu.  
 [[Paper]](https://arxiv.org/abs/2510.17163) \| [[Homepage]](https://code-treat.vercel.app/) \| [[Data]](https://huggingface.co/Code-TREAT/datasets)
 
 
-**2026**
+## 2026
 
 - **[NeurIPS'26]** Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue <font color='red'>(CCF-A)</font>
 Azure Zhang, Ning Gao, Yuqin Dai, Ruiyuan Wu, Jinpeng Wang, Rena Wei Gao, Bingdong Tan, _**Shuzheng Gao**_, Zongjie Li and Chaozheng Wang
 
 - **[EMNLP'26]** SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents <font color='red'>(CCF-B)</font>
 _**Shuzheng Gao**_, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He and Michael R. Lyu
-Oral Presentation; 🏆 <span style="color:red">Best Paper Award Nomination</span>
+Oral Presentation
 
 - **[EMNLP'26]** Dockerless: Environment-Free Program Verifier for Coding Agents <font color='red'>(CCF-B)</font>
 Wenhao Zeng, Yuling Shi, Xiaodong Gu, Chao Hu, Chaofan Wang, Yuhao Cui, Hongting Zhou, Mengnan Qi, Jianqiao Wangni, Zhaojian Yu, _**Shuzheng Gao**_, Kai Cai and Shilin He
@@ -53,7 +54,7 @@ The Third International Workshop on Large Language Models for Code, April 12, 20
 [[Paper]](../files/contextpilot.pdf)
 
 
-**2025**
+## 2025
 
 - **[ICSE'25]** Search-Based LLMs for Code Optimization <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Cuiyun Gao, Wenchao Gu and Michael R. Lyu    
@@ -83,7 +84,7 @@ _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao, Xiaoqian Jiao, Chun Yong Chong, 
 [[Paper]](https://arxiv.org/abs/2501.01329)
 
 
-**2024**
+## 2024
 
 - **[ASE'24]** A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How. <font color='red'>(CCF-A)</font>   
 Chaozheng Wang, _**Shuzheng Gao**_, Cuiyun Gao, Wenxuan Wang, Chun Yong Chong, Shan Gao and Michael R. Lyu  
@@ -106,7 +107,7 @@ The 46th International Conference on Software Engineering, April 14-20, 2024, Li
 [[Paper]](https://arxiv.org/abs/2306.01394) \| [[Code]](https://github.com/JohnnyPeng18/TypeFix) \| <span style="color:red"> Accept Rate 6.6% </span>
 
 
-**2023**
+## 2023
 
 - **[ASE'23]** What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs? <font color='red'>(CCF-A)</font>  
 _**Shuzheng Gao**_, Xin-Cheng Wen, Cuiyun Gao, Wenxuan Wang, Hongyu Zhang and Michael R. Lyu  
@@ -136,7 +137,7 @@ ACM Transactions on Software Engineering and Methodology
 
 
 
-**2022**
+## 2022
 
 - **[TNNLS'22]** Label-Aware Distribution Calibration for Long-tailed Classification <font color='red'>(CCF-B)</font>  
 Chaozheng Wang\*, _**Shuzheng Gao**_\*, Cuiyun Gao, Pengyun Wang, Wenjie Pei, Lujia Pan and Zenglin Xu  
