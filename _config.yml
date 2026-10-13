@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Shuzheng Gao - Homepage"
-description              : "Code LLMs, Coding Agents, and recursive self-improvement"
+description              : "Code LLMs, Coding Agents, and Recursive Self-Improvement"
 url                      : "https://shuzhenggao.github.io"
 baseurl                  : ""
 repository               : "shuzhenggao/shuzhenggao.github.io"
