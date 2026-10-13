@@ -39,3 +39,393 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+.conference-tag {
+    background-color: #2e8b57;  /* 海洋绿 */
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.oral-tag {
+    background-color: #ff8c00;  /* 橙色，突出显示 */
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.job-market-banner {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    border-left: 5px solid #ff6f00;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 20px 0;
+    font-size: 0.95em;
+    line-height: 1.7;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    .job-market-title {
+        font-size: 1.15em;
+        font-weight: bold;
+        color: #e65100;
+        margin-bottom: 6px;
+    }
+}
+
+.spotlight-tag {
+    background-color: #daa520;  /* 金色，表示Spotlight */
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.outstanding-tag {
+    background-color: #8a2be2;  /* 蓝紫色，表示杰出和尊贵 */
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.preprint-tag {
+    background-color: #6c757d;  /* 灰色 */
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 较轻的阴影效果 */
+}
+
+.tech-report-tag {
+    background-color: #1e90ff;  /* 道奇蓝 */
+    color: white;
+    padding: 3px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* ==========================================================================
+   CV PAGE
+   ========================================================================== */
+
+.cv-page {
+  @include breakpoint($large) {
+    width: 100% !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+    float: none !important;
+  }
+}
+
+.cv-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1em 1.5em;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+.cv-header {
+  text-align: center;
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 2px solid #333;
+}
+
+.cv-name {
+  font-size: 2em;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  margin: 0 0 0.4em 0;
+  padding: 0;
+  border: none !important;
+}
+
+.cv-contact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4em 1.2em;
+  font-size: 0.9em;
+
+  a {
+    color: #494e52;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+      color: #2196f3;
+    }
+  }
+
+  i {
+    margin-right: 0.2em;
+    color: #666;
+  }
+}
+
+.cv-section {
+  margin-bottom: 1.2em;
+}
+
+.cv-section-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  border-bottom: 1.5px solid #333;
+  padding-bottom: 0.2em;
+  margin-bottom: 0.6em;
+  margin-top: 0.8em;
+}
+
+.cv-entry {
+  margin-bottom: 0.8em;
+}
+
+.cv-entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  line-height: 1.4;
+}
+
+.cv-entry-left {
+  flex: 1;
+  a {
+    color: inherit;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+      color: #2196f3;
+    }
+  }
+}
+
+.cv-entry-right {
+  text-align: right;
+  white-space: nowrap;
+  margin-left: 1em;
+}
+
+.cv-entry-details {
+  margin-top: 0.1em;
+  font-size: 0.95em;
+  a {
+    color: #494e52;
+    &:hover {
+      color: #2196f3;
+    }
+  }
+}
+
+.cv-highlights {
+  margin: 0.2em 0 0 1.2em;
+  padding: 0;
+  li {
+    margin-bottom: 0.15em;
+    font-size: 0.93em;
+  }
+}
+
+/* Publication styles */
+.cv-publication {
+  margin-bottom: 0.6em;
+  line-height: 1.45;
+
+  a {
+    color: #494e52;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+      color: #2196f3;
+    }
+  }
+}
+
+.cv-pub-venue {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-size: 0.82em;
+  font-weight: 600;
+  margin-right: 0.3em;
+  vertical-align: middle;
+}
+
+.cv-pub-top {
+  background-color: rgba(220, 53, 69, 0.1);
+  color: #c0392b;
+}
+
+.cv-pub-ml {
+  background-color: rgba(40, 167, 69, 0.1);
+  color: #1a7a3a;
+}
+
+.cv-pub-other {
+  background-color: rgba(0, 128, 128, 0.1);
+  color: #00796b;
+}
+
+.cv-pub-preprint {
+  background-color: rgba(108, 117, 125, 0.1);
+  color: #555;
+  font-style: italic;
+}
+
+.cv-pub-survey {
+  background-color: rgba(128, 0, 128, 0.1);
+  color: #7b1fa2;
+}
+
+.cv-pub-badge {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-size: 0.82em;
+  font-weight: 700;
+  margin-right: 0.3em;
+  vertical-align: middle;
+}
+
+.cv-pub-outstanding {
+  background: linear-gradient(135deg, #fff3e0, #fce4ec);
+  color: #bf360c;
+  border: 1.5px solid #e65100;
+  padding: 2px 8px;
+  font-size: 0.85em;
+  font-weight: 700;
+
+  i {
+    color: #e65100;
+    margin-right: 0.3em;
+  }
+}
+
+.cv-pub-oral {
+  background-color: rgba(33, 150, 243, 0.1);
+  color: #1565c0;
+}
+
+.cv-pub-spotlight {
+  background-color: rgba(218, 165, 32, 0.15);
+  color: #b8860b;
+  border: 1.5px solid #daa520;
+  padding: 2px 8px;
+  font-size: 0.85em;
+  font-weight: 700;
+}
+
+.cv-footer {
+  margin-top: 2em;
+  padding-top: 0.8em;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  font-size: 0.8em;
+  color: #999;
+
+  a {
+    color: #999;
+    text-decoration: none;
+    &:hover {
+      color: #2196f3;
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Print styles for CV */
+@media print {
+  .cv-container {
+    max-width: 100%;
+    padding: 0;
+  }
+  .masthead, .cv-footer {
+    display: none;
+  }
+  .cv-pub-venue, .cv-pub-badge {
+    border: 1px solid #ccc;
+    background: none !important;
+  }
+}

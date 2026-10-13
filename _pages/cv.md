@@ -1,11 +1,13 @@
 ---
-layout: archive
-title: My Brief Curriculum Vitae
+layout: cv
+title: "CV - Shuzheng Gao"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+<div class="cv-container" markdown="1">
 
 Research Summary
 ======
@@ -102,3 +104,5 @@ Honors and Awards
 Skills
 ======
 * **Languages:** Mandarin (native), English (fluent; IELTS 7.0)
+
+</div>
