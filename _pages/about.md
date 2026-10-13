@@ -56,3 +56,23 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 - <span class="conference-tag">TOSEM 2023</span> [**Code Structure Guided Transformer for Source Code Summarization**](https://arxiv.org/abs/2104.09340), **Shuzheng Gao**, Cuiyun Gao, Yulan He, Jichuan Zeng, Lun Yiu Nie, Xin Xia, and Michael R. Lyu. [[Code]](https://github.com/gszsectan/SG-Trans)
 
 <sup>*</sup> indicates equal contribution. See [All Publications](/publications/) for the complete list.
+
+# 💻 Internships
+
+- *Dec 2025 - Present*, **Research Intern**, ByteDance Douyin AI4SE.
+  - **Mentor**: Dr. Shilin He.
+  - **Research Focus**: Coding-agent SFT and RL, long-horizon agents with compaction and subagents, agentic RL training and credit assignment, and automated post-training.
+
+- *Mar 2021 - Aug 2021*, **Research Intern**, Huawei Noah's Ark Lab, Shenzhen.
+  - **Mentor**: Dr. Pengyun Wang.
+  - **Research Focus**: Long-tailed image classification.
+
+# 🎖 Honors and Awards
+
+- *2025*: ACM SIGSOFT Distinguished Paper Award, ICSE.
+- *2025*: Distinguished Reviewer Award, Internetware.
+- *2023*: Distinguished Paper Award, ASE Industry Challenge.
+- *2023*: Binxing Fang Scholarship.
+- *2022*: Best Student Paper Award, ACAIT.
+- *2021*: Outstanding Graduate of Harbin Institute of Technology.
+- *2019*: National Scholarship, Ministry of Education.

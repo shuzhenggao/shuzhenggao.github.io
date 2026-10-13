@@ -1,12 +1,6 @@
 main:
-  - title: "News"
-    url: "/#-news"
-
-  - title: "All Publications"
+  - title: "Publications"
     url: "/publications/"
 
-  - title: "Experience"
-    url: "/experience/"
-
   - title: "CV"
-    url: "/cv/"
+    url: "/experience/"

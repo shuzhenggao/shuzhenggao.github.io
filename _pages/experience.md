@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Experience"
+title: "CV"
 permalink: /experience/
 author_profile: true
 ---
 
-# Experience
+# CV
 
 ## Education
 
