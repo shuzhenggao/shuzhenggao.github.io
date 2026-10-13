@@ -32,10 +32,15 @@ If you are interested in my research, collaboration, or potential opportunities,
 - *2025.10*: 🎉 Our paper [SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning](https://arxiv.org/abs/2510.17130) is accepted by ICSE 2026!
 - *2025.04*: 🏆 Our paper [Search-Based LLMs for Code Optimization](https://arxiv.org/abs/2408.12159) receives the **ACM SIGSOFT Distinguished Paper Award** at ICSE 2025!
 - *2025.04*: 🎉 **Beyond PEFT** and **RAG or Fine-tuning?** are accepted by FSE 2025 and the FSE 2025 Industry Track!
+<details class="earlier-news" markdown="1">
+<summary>Earlier News</summary>
+
 - *2024.08*: 🎉 **A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How** is accepted by ASE 2024!
 - *2024.03*: 🎉 **SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection** is accepted by ISSTA 2024!
 - *2023.12*: 🎉 [Learning in the Wild](https://arxiv.org/abs/2401.01060) is accepted by ICSE 2024!
 - *2023.07*: 🎉 [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://arxiv.org/abs/2304.07575) is accepted by ASE 2023!
+
+</details>
 
 # 📝 Selected Publications
 
