@@ -10,21 +10,18 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-Hello! I am a **final-year Ph.D. student** in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). My research primarily focuses on **Code LLMs and Coding Agents**. I work across their training, evaluation, and inference-time optimization, and have published **30+ papers** in these areas. My first-author ICSE 2025 paper received the **ACM SIGSOFT Distinguished Paper Award**. More recently, I have been working on **recursive self-improvement**, particularly on enabling models to train themselves and optimize their own agent harnesses.
-The following figure summarizes my main research directions and representative first-author work.
+I am a **final-year Ph.D. student** in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). My research primarily focuses on **Code LLMs and Coding Agents**. I work across their training, evaluation, and inference-time optimization, and have published **30+ papers** in these areas. My first-author ICSE 2025 paper received the **ACM SIGSOFT Distinguished Paper Award**. More recently, I'm also working on  **recursive self-improvement**,  particularly on how to enhance models’ ability to train themselves or optimize their own harness. The overview of my main first-author papers are summarized as below.
 
 <img src="/images/research-overview.png" alt="Overview of my research on Code Models, Coding Agents, and Recursive Self-improvement" class="research-overview">
 
-If you are interested in my research, collaboration, or potential opportunities, please feel free to contact me at [szgao23@cse.cuhk.edu.hk](mailto:szgao23@cse.cuhk.edu.hk).
-
-
 <div class="job-market-banner">
-I am currently on the job market and actively seeking academic or industry opportunities.
+📢 **I am currently on the 2027 job market and actively seeking academic or industry opportunities. Feel free to reach out at my email (szgao23@cse.cuhk.edu.hk) or wechat (id: wx_szgao1998) if you are interested in any aspect of me.** 
 </div>
 
 # 🔥 News
 
-- *2026*: 🎉 Our paper **SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents** is accepted by EMNLP 2026 as an oral presentation!
+- *2026.10*: 🎉 Checkout our latest work **RSI-Dojo: Training LLM Agents to Automate LLM Post-Training**. WE construct a suite of post-training environments and teaches LLM agents to autonomously construct data, optimize training recipes, and iteratively improve perofrmance. Our RSI-Dojo-35B-A3B reaches **29.95** on **PostTrainBench**, surpassing the performance of frontier models such as GPT-5.5.
+- *2026.08*: 🎉 Our paper **SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents** is accepted by EMNLP 2026 as an oral presentation!
 - *2025.11*: 🎉 Our paper **ContextPilot: Code Context Engineering with Memory-Augmented Exploration Agents** is accepted by LLM4Code 2026!
 - *2025.10*: 🎉 Our paper [SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning](https://arxiv.org/abs/2510.17130) is accepted by ICSE 2026!
 - *2025.04*: 🏆 Our paper [Search-Based LLMs for Code Optimization](https://arxiv.org/abs/2408.12159) receives the **ACM SIGSOFT Distinguished Paper Award** at ICSE 2025!
