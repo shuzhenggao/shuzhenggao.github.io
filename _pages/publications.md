@@ -15,6 +15,32 @@ _**Shuzheng Gao**_\*, Eric John Li\*, Man Ho Lam, Jingyu Xiao, Yuxuan Wan, Chaoz
 
 **2026**
 
+- **[NeurIPS'26]** Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue <font color='red'>(CCF-A)</font>
+Azure Zhang, Ning Gao, Yuqin Dai, Ruiyuan Wu, Jinpeng Wang, Rena Wei Gao, Bingdong Tan, _**Shuzheng Gao**_, Zongjie Li and Chaozheng Wang
+
+- **[EMNLP'26]** SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents <font color='red'>(CCF-B)</font>
+_**Shuzheng Gao**_, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He and Michael R. Lyu
+Oral Presentation; 🏆 <span style="color:red">Best Paper Award Nomination</span>
+
+- **[EMNLP'26]** Dockerless: Environment-Free Program Verifier for Coding Agents <font color='red'>(CCF-B)</font>
+Wenhao Zeng, Yuling Shi, Xiaodong Gu, Chao Hu, Chaofan Wang, Yuhao Cui, Hongting Zhou, Mengnan Qi, Jianqiao Wangni, Zhaojian Yu, _**Shuzheng Gao**_, Kai Cai and Shilin He
+Oral Presentation
+
+- **[ASE'26]** Multi-level Code Optimization via Mixture of Prompts <font color='red'>(CCF-A)</font>
+Yun Peng, Jun Wan, Jiakun Liu, _**Shuzheng Gao**_, David Lo and Xiaoxue Ren
+
+- **[ASE'26]** BDiff: Block-aware and Accurate Text-based Code Differencing <font color='red'>(CCF-A)</font>
+Yao Lu, Wanwei Liu, Tanghaoran Zhang, Kang Yang, Yang Zhang, Wenyu Xu, Longfei Sun, Xinjun Mao, _**Shuzheng Gao**_ and Michael R. Lyu
+
+- **[ACL'26 Findings]** Adapt to Thrive! Adaptive Power-Mean Policy Optimization for Improved LLM Reasoning
+Yiming Huang, Zhenbo Shi, _**Shuzheng Gao**_, Cuiyun Gao, Peiyi Han and Chuanyi Liu
+
+- **[FSE'26]** Cascaded Code Editing: Large-Small Model Collaboration for Effective and Efficient Code Editing <font color='red'>(CCF-A)</font>
+Chaozheng Wang, Zezhou Yang, _**Shuzheng Gao**_, Cuiyun Gao, Zongjie Li, Yichen Li, Ting Peng, Hailiang Huang, Yuetang Deng and Michael R. Lyu
+
+- **[FSE'26 Industry]** JSProtect: A Scalable Obfuscation Framework for Mini-Games in WeChat
+Zhihao Li, Chaozheng Wang, Zongjie Li, Xinyong Peng, Zelin Su, Qun Xia, Haochuan Lu, Ting Xiong, Man Ho Lam, _**Shuzheng Gao**_, Yuchong Xie, Cuiyun Gao, Shuai Wang, Yuetang Deng and Huafeng Ma
+
 - **[ICSE'26]** SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao and Michael R. Lyu    
 The 48th International Conference on Software Engineering, April 12-18, 2026, Rio De Janeiro, Brazil  
