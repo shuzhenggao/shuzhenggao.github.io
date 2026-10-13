@@ -44,6 +44,8 @@ If you are interested in my research, collaboration, or potential opportunities,
 
 # 📝 Selected Publications
 
+- <span class="preprint-tag">To appear on arXiv</span> [**RSI-Dojo: Training LLM Agents to Automate LLM Post-Training**](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link), **Shuzheng Gao**, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R. Lyu.
+
 - <span class="conference-tag">EMNLP 2026</span> **SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents**, **Shuzheng Gao**, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He, and Michael R. Lyu. <span class="oral-tag">Oral</span>
 
 - <span class="conference-tag">ICSE 2026</span> [**SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning**](https://arxiv.org/abs/2510.17130), **Shuzheng Gao**, Chaozheng Wang, Cuiyun Gao, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/ICSE26SEER)
