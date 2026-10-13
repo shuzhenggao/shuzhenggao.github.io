@@ -19,7 +19,6 @@ If you are interested in my research, collaboration, or potential opportunities,
 
 
 <div class="job-market-banner">
-<div class="job-market-title">📢 On the 2027 Job Market</div>
 I am currently on the job market and actively seeking academic or industry opportunities.
 </div>
 
