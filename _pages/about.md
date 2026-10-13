@@ -10,20 +10,18 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-Hello! I am a **final-year Ph.D. student** in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home).
-
-<div class="job-market-banner">
-<div class="job-market-title">📢 On the 2027 Job Market</div>
-I am currently on the job market and actively seeking academic or industry opportunities.
-</div>
-
-My research primarily focuses on **Code LLMs and Coding Agents**. I work across their training, evaluation, and inference-time optimization, and have published **30+ papers** in these areas. My first-author ICSE 2025 paper received the **ACM SIGSOFT Distinguished Paper Award**. More recently, I have been working on **recursive self-improvement**, particularly on enabling models to train themselves and optimize their own agent harnesses.
-
+Hello! I am a **final-year Ph.D. student** in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). My research primarily focuses on **Code LLMs and Coding Agents**. I work across their training, evaluation, and inference-time optimization, and have published **30+ papers** in these areas. My first-author ICSE 2025 paper received the **ACM SIGSOFT Distinguished Paper Award**. More recently, I have been working on **recursive self-improvement**, particularly on enabling models to train themselves and optimize their own agent harnesses.
 The following figure summarizes my main research directions and representative first-author work.
 
 <img src="/images/research-overview.png" alt="Overview of my research on Code Models, Coding Agents, and Recursive Self-improvement" class="research-overview">
 
 If you are interested in my research, collaboration, or potential opportunities, please feel free to contact me at [szgao23@cse.cuhk.edu.hk](mailto:szgao23@cse.cuhk.edu.hk).
+
+
+<div class="job-market-banner">
+<div class="job-market-title">📢 On the 2027 Job Market</div>
+I am currently on the job market and actively seeking academic or industry opportunities.
+</div>
 
 # 🔥 News
 
