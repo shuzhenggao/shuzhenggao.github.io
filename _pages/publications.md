@@ -33,12 +33,10 @@ _**Shuzheng Gao**_, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, K
 
 - **[ICSE'26]** SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao and Michael R. Lyu    
-The 48th International Conference on Software Engineering, April 12-18, 2026, Rio De Janeiro, Brazil  
 [[Paper]](https://arxiv.org/abs/2510.17130) \| [[Code]](https://github.com/shuzhenggao/ICSE26SEER)  
 
 - **[LLM4Code'26]** ContextPilot: Code Context Engineering with Memory-Augmented Exploration Agents    
 _**Shuzheng Gao**_, Chaozheng Wang, Shuqing Li, Yun Peng and Michael R. Lyu    
-The Third International Workshop on Large Language Models for Code, April 12, 2026, Rio De Janeiro, Brazil   
 [[Paper]](../files/contextpilot.pdf)
 
 - **[NeurIPS'26]** Hearing the Unspoken: Simulator-Induced Asymmetric-View Policy Optimization for Proactive Task-Oriented Dialogue <font color='red'>(CCF-A)</font>  
@@ -51,7 +49,7 @@ Wenhao Zeng, Yuling Shi, Xiaodong Gu, Chao Hu, Chaofan Wang, Yuhao Cui, Hongting
 
 - **[ASE'26]** Multi-level Code Optimization via Mixture of Prompts <font color='red'>(CCF-A)</font>  
 Yun Peng, Jun Wan, Jiakun Liu, _**Shuzheng Gao**_, David Lo and Xiaoxue Ren  
-[[Paper]](https://arxiv.org/abs/2607.23665) \| [[Artifact]](https://zenodo.org/records/19335907)  
+[[Paper]](https://arxiv.org/abs/2607.23665) \| [[Code]](https://zenodo.org/records/19335907)
 
 - **[ASE'26]** BDiff: Block-aware and Accurate Text-based Code Differencing <font color='red'>(CCF-A)</font>  
 Yao Lu, Wanwei Liu, Tanghaoran Zhang, Kang Yang, Yang Zhang, Wenyu Xu, Longfei Sun, Xinjun Mao, _**Shuzheng Gao**_ and Michael R. Lyu  
