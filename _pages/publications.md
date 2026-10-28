@@ -29,7 +29,7 @@ _**Shuzheng Gao**_\*, Eric John Li\*, Man Ho Lam, Jingyu Xiao, Yuxuan Wan, Chaoz
 
 - **[EMNLP'26]** SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents <font color='red'>(CCF-B)</font>  
 _**Shuzheng Gao**_, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He and Michael R. Lyu  
-[[Paper]](https://arxiv.org/abs/2606.28434) \| <font color='red'>Oral Presentation</font><br>  
+[[Paper]](https://arxiv.org/abs/2606.28434) \| <font color='red'>Oral Presentation</font> \|  🏆 <span style="color:red">SAC Highlight Award. Top 0.25% of all submissions</span> 
 
 - **[ICSE'26]** SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao and Michael R. Lyu    
