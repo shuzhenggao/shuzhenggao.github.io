@@ -20,7 +20,7 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 
 # 🔥 News
 
-- *2025.10*: 🏆 Our paper [SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents](https://arxiv.org/abs/2606.28434) receives the **SAC Highlight Awar** (top 0.25%) at EMNLP 2026!
+- *2025.10*: 🏆 Our paper [SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents](https://arxiv.org/abs/2606.28434) receives the **SAC Highlight Award** (top 0.25%) at EMNLP 2026!
 - *2026.10*: 🎉 Checkout our latest work [**RSI-Dojo: Training LLM Agents to Automate LLM Post-Training**](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link). We construct a suite of post-training environments and teach LLM agents to autonomously construct data, optimize training recipes, and iteratively improve perofrmance. Our RSI-Dojo-35B-A3B reaches **29.95** on **PostTrainBench**, surpassing the performance of frontier models such as GPT-5.5.
 - *2026.09*: 🎉 One paper is accepted by **NeurIPS 2026**!
 - *2026.08*: 🎉 Our paper **SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents** is accepted by EMNLP 2026 as an oral presentation!
@@ -41,9 +41,10 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 - *2023.07*: 🎉 [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://arxiv.org/abs/2304.07575) is accepted by ASE 2023!
 
 </details>
+
 # 📝 Selected Publications
 
-- <span class="preprint-tag">To appear on arXiv</span> [**RSI-Dojo: Training LLM Agents to Automate LLM Post-Training**](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link), **Shuzheng Gao**, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R. Lyu.
+- <span class="preprint-tag">To appear on arXiv</span> [**Training LLM Agents to Automate LLM Post-Training with RSI-Dojo**](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link), **Shuzheng Gao**, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R. Lyu.
 
 - <span class="conference-tag">EMNLP 2026</span> [**SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents**](https://arxiv.org/abs/2606.28434), **Shuzheng Gao**, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He, and Michael R. Lyu. <span class="oral-tag">Oral</span> <span class="outstanding-tag">SAC Highlight Award</span>
 
@@ -77,10 +78,10 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 
 # 🎖 Honors and Awards
 
+- *2026*: SAC Highlight Award, EMNLP.
 - *2025*: ACM SIGSOFT Distinguished Paper Award, ICSE.
 - *2025*: Distinguished Reviewer Award, Internetware.
 - *2023*: Distinguished Paper Award, ASE Industry Challenge.
-- *2023*: Binxing Fang Scholarship.
 - *2022*: Best Student Paper Award, ACAIT.
 - *2021*: Outstanding Graduate of Harbin Institute of Technology.
 - *2019*: National Scholarship, Ministry of Education.
