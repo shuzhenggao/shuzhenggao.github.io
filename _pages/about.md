@@ -10,7 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am a **final-year Ph.D. student** in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). My research primarily focuses on **Code LLMs and Coding Agents**. I work across their training, evaluation, and inference-time optimization, and have published **10+ first-author papers** in these areas, including one first-author ICSE 2025 paper that received the **ACM SIGSOFT Distinguished Paper Award**. Recently, I'm also working on  **Recursive Self-Improvement**, particularly on how to enhance models’ ability to train themselves or optimize their own harness. The overview of my main first-author papers are summarized as below.
+I am a **final-year Ph.D. student** in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/home). My research primarily focuses on **Code LLMs and Coding Agents**. I work across their training, evaluation, and inference-time optimization, and have published **10+ first-author papers** in these areas, including one first-author ICSE 2025 paper that received the **ACM SIGSOFT Distinguished Paper Award** and one first-author EMNLP 2026 paper that received the **SAC Highlight Award**. Recently, I'm also working on  **Recursive Self-Improvement**, particularly on how to enhance models’ ability to train themselves or optimize their own harness. The overview of my main first-author papers are summarized as below.
 
 <img src="/images/research-overview.png" alt="Overview of my research on Code Models, Coding Agents, and Recursive Self-improvement" class="research-overview">
 
@@ -20,6 +20,7 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 
 # 🔥 News
 
+- *2025.10*: 🏆 Our paper [SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents](https://arxiv.org/abs/2606.28434) receives the **SAC Highlight Awar** (top 0.25%) at EMNLP 2026!
 - *2026.10*: 🎉 Checkout our latest work [**RSI-Dojo: Training LLM Agents to Automate LLM Post-Training**](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link). We construct a suite of post-training environments and teach LLM agents to autonomously construct data, optimize training recipes, and iteratively improve perofrmance. Our RSI-Dojo-35B-A3B reaches **29.95** on **PostTrainBench**, surpassing the performance of frontier models such as GPT-5.5.
 - *2026.09*: 🎉 One paper is accepted by **NeurIPS 2026**!
 - *2026.08*: 🎉 Our paper **SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents** is accepted by EMNLP 2026 as an oral presentation!
@@ -30,10 +31,10 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 - *2025.11*: 🎉 Our paper **ContextPilot: Code Context Engineering with Memory-Augmented Exploration Agents** is accepted by LLM4Code 2026!
 - *2025.10*: 🎉 Our paper [SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning](https://arxiv.org/abs/2510.17130) is accepted by ICSE 2026!
 - *2025.04*: 🏆 Our paper [Search-Based LLMs for Code Optimization](https://arxiv.org/abs/2408.12159) receives the **ACM SIGSOFT Distinguished Paper Award** at ICSE 2025!
-- *2025.04*: 🎉 **Beyond PEFT** and **RAG or Fine-tuning?** are accepted by FSE 2025 and the FSE 2025 Industry Track!
 <details class="earlier-news" markdown="1">
 <summary>Earlier News</summary>
 
+- *2025.04*: 🎉 **Beyond PEFT** and **RAG or Fine-tuning?** are accepted by FSE 2025 and the FSE 2025 Industry Track!
 - *2024.08*: 🎉 **A Systematic Evaluation of Large Code Models in API Suggestion: When, Which, and How** is accepted by ASE 2024!
 - *2024.03*: 🎉 **SCALE: Constructing Symbolic Comment Trees for Software Vulnerability Detection** is accepted by ISSTA 2024!
 - *2023.12*: 🎉 [Learning in the Wild](https://arxiv.org/abs/2401.01060) is accepted by ICSE 2024!
@@ -44,7 +45,7 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 
 - <span class="preprint-tag">To appear on arXiv</span> [**RSI-Dojo: Training LLM Agents to Automate LLM Post-Training**](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link), **Shuzheng Gao**, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R. Lyu.
 
-- <span class="conference-tag">EMNLP 2026</span> [**SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents**](https://arxiv.org/abs/2606.28434), **Shuzheng Gao**, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He, and Michael R. Lyu. <span class="oral-tag">Oral</span>
+- <span class="conference-tag">EMNLP 2026</span> [**SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents**](https://arxiv.org/abs/2606.28434), **Shuzheng Gao**, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He, and Michael R. Lyu. <span class="oral-tag">Oral</span> <span class="outstanding-tag">SAC Highlight Award</span>
 
 - <span class="conference-tag">ICSE 2026</span> [**SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning**](https://arxiv.org/abs/2510.17130), **Shuzheng Gao**, Chaozheng Wang, Cuiyun Gao, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/ICSE26SEER)
 
