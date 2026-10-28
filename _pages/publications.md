@@ -73,7 +73,7 @@ Zhihao Li, Chaozheng Wang, Zongjie Li, Xinyong Peng, Zelin Su, Qun Xia, Haochuan
 
 - **[ICSE'25]** Search-Based LLMs for Code Optimization <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Cuiyun Gao, Wenchao Gu and Michael R. Lyu     
-[[Paper]](https://arxiv.org/abs/2408.12159) \| [[Code]](https://github.com/shuzhenggao/sbllm) \| 🏆 <span style="color:red">ACM SIGSOFT Distinguished Paper Award. The paper received the 3th-highest score among 1,185 submissions.</span> 
+[[Paper]](https://arxiv.org/abs/2408.12159) \| [[Code]](https://github.com/shuzhenggao/sbllm) \| 🏆 <span style="color:red">ACM SIGSOFT Distinguished Paper Award. The paper received the 3th-highest score among all submissions.</span> 
 
 - **[FSE'25]** Beyond PEFT: Layer-Wise Optimization for More Effective and Efficient Large Code Model Tuning <font color='red'>(CCF-A)</font>   
 Chaozheng Wang, Jia Feng, _**Shuzheng Gao**_, Cuiyun Gao, Zongjie Li, Ting Peng, Hailiang Huang, Yuetang Deng, and Michael R. Lyu   
