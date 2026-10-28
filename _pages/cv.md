@@ -63,12 +63,6 @@ Selected Publications
 
 * See the complete list on the [Publications](/publications/) page.
 
-Projects / Ongoing Work
-======
-* **Training Autonomous Post-Training Agents with RSI-Gym**, July 2026 - Present
-  * Automatically building model-training environments from top-venue papers
-  * Training models to train small LLMs on PostTrainBench
-
 Teaching
 ======
 Courses I served as a teaching assistant:
@@ -92,7 +86,8 @@ Academic Service
 
 Honors and Awards
 ======
-* * ACM SIGSOFT Distinguished Paper Award, ICSE, 2025
+* SAC Highlight Award, EMNLP, 2026
+* ACM SIGSOFT Distinguished Paper Award, ICSE, 2025
 * Internetware Distinguished Reviewer Award, 2025
 * Distinguished Paper Award, ASE Industry Challenge, 2023
 * Binxing Fang Scholarship, 2023
