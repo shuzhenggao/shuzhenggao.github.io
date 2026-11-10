@@ -11,7 +11,7 @@ author_profile: true
 
 -  Training LLM Agents to Automate LLM Post-Training with RSI-Dojo    
 _**Shuzheng Gao**_, Zhaojian Yu, Penghao Yin, Yuling Shi, Kai Cai, Shilin He, and Michael R. Lyu  
-[[Notion]](https://app.notion.com/p/RSI-Dojo-Training-LLM-Agents-to-Automate-LLM-Post-Training-3f69ae5c9b2980bab6c2cf630a722fe2?source=copy_link)  
+[[Paper]](https://arxiv.org/abs/2611.03698v2) \| [[Homepage]](https://shuzhenggao.github.io/rsidojo/) 
 
 -  AutoTrainess: Teaching Language Models to Train Language Models Autonomously  
 Zhaojian Yu\*, Penghao Yin\*, _**Shuzheng Gao\***_, Shilin He, Kai Cai, Xiao-ping Zhang  
@@ -29,7 +29,7 @@ _**Shuzheng Gao**_\*, Eric John Li\*, Man Ho Lam, Jingyu Xiao, Yuxuan Wan, Chaoz
 
 - **[EMNLP'26]** SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents <font color='red'>(CCF-B)</font>  
 _**Shuzheng Gao**_, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He and Michael R. Lyu  
-[[Paper]](https://arxiv.org/abs/2606.28434) \| <font color='red'>Oral Presentation</font> \|  🏆 <span style="color:red">SAC Highlight Award. Top 0.25% of all submissions</span> 
+[[Paper]](https://arxiv.org/abs/2606.28434) \| <font color='red'>Oral Presentation</font> \|  🏆 <span style="color:red">SAC Highlight Award. Top 0.29% of all submissions</span> 
 
 - **[ICSE'26]** SEER: Enhancing Chain-of-Thought Code Generation through Self-Exploring Deep Reasoning <font color='red'>(CCF-A)</font>   
 _**Shuzheng Gao**_, Chaozheng Wang, Cuiyun Gao and Michael R. Lyu    
