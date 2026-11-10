@@ -44,7 +44,7 @@ I am a **final-year Ph.D. student** in Computer Science and Engineering at [The 
 
 # 📝 Selected Publications
 
-- <span class="preprint-tag">ArXiv</span> [**Training LLM Agents to Automate LLM Post-Training with RSI-Dojo**](https://arxiv.org/abs/2611.03698v2), **Shuzheng Gao**, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/rsi-dojo) | [[Data]](https://huggingface.co/datasets/szgao/RSI-Dojo) | [[Homepage]](https://shuzhenggao.github.io/rsidojo/)
+- <span class="preprint-tag">ArXiv</span> [**Training LLM Agents to Automate LLM Post-Training with RSI-Dojo**](https://arxiv.org/abs/2611.03698v2), **Shuzheng Gao**, Zhaojian Yu, Penghao Yin, Shilin He, Kai Cai, and Michael R. Lyu. [[Code]](https://github.com/shuzhenggao/rsi-dojo) \| [[Data]](https://huggingface.co/datasets/szgao/RSI-Dojo) \| [[Homepage]](https://shuzhenggao.github.io/rsidojo/)
 
 - <span class="conference-tag">EMNLP 2026</span> [**SWE-MeM: Learning Adaptive Memory Management for Long-Horizon Coding Agents**](https://arxiv.org/abs/2606.28434), **Shuzheng Gao**, Wenhao Zeng, Zhaojian Yu, Jianqiao Wangni, Chaozheng Wang, Kai Cai, Shilin He, and Michael R. Lyu. <span class="oral-tag">Oral</span> <span class="outstanding-tag">SAC Highlight Award</span>
 
